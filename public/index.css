@@ -1,0 +1,61 @@
+.title {
+    background-color: rgb(162, 3, 159);
+    padding-top: 20px;
+    padding-left: 20px;
+    width: 300px;
+    padding-bottom: 20px;
+    margin-left: 475px;
+    border-radius: 20px;
+    color: aliceblue;
+    margin-top: 20px;
+}
+
+.bod {
+    background-color: rgb(208, 128, 251);
+}
+
+.input {
+    margin-top: 150px;
+    margin-left: 400px;
+}
+
+.field {
+    padding-top: 20px;
+}
+
+.btn {
+    background-color: rgb(83, 232, 56);
+    color: aliceblue;
+}
+
+.btnS {
+    padding-top: 20px;
+    margin-bottom: 50px;
+    margin-left: 250px;
+}
+
+.displayArea {
+    background-color: crimson;
+    width: 750px;
+    height: 400px;
+    margin-left: 250px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    border-style: double;
+    border-width: 5px;
+    color: rgb(27, 27, 26);
+}
+
+.cont {
+    padding-left: 600px;
+    color: aliceblue;
+}
+
+.Bname {
+    padding-left: 300px;
+    color: rgb(103, 82, 5);
+}
+
+.Bauthor {
+    padding-left: 600px;
+}
